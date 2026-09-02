@@ -21,7 +21,7 @@ Monthly Sales by Department
 ### 3. Line Chart
 Monthly Sales Trend
 
-### 4. Tree Chart
+### 4. Tree Map
 Monthly Sales by City
 
 ## Key Analysis
