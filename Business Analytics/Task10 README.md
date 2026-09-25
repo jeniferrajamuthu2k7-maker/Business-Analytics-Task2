@@ -23,6 +23,10 @@ Analyze business performance across different categories using a Heat Map in Tab
 - The Heat Map helps identify high and low performing areas.
 - Department filtering makes comparison easier.
 
+## 💼 Business Recommendations
+- Focus resources on high-performing departments and cities.
+- Develop targeted strategies to improve low-performing areas.
+
 ## ✅ Conclusion
 The Tableau dashboard provides a clear view of business performance across departments and cities. The Heat Map helps identify high and low performing areas and supports better business analysis.
 
